@@ -1,0 +1,20 @@
+subscribermap:
+  INFO:
+  - mno@gmail.com
+  CRITICAL:
+  - xyz@gmail.com
+  WARNING:
+  - abc@gmail.com
+alerttimeconfigmap:
+  INFO:
+    frequency: 10
+    duration: 100
+    waitTime: 10
+  CRITICAL:
+    frequency: 10
+    duration: 100
+    waitTime: 10
+  WARNING:
+    frequency: 10
+    duration: 100
+    waitTime: 10
